@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Justin Johansen
 - 👀 I’m interested in analytics, software engineering, and domestic and international web developement.
-- 🌱 I’ve been learning Python, SQL, Django, and C++ and am currently working on projects that use them to solf real-life problems
+- 🌱 I’ve been learning Python, SQL, Django, and C++ and am currently working on projects that use them to solve real-life problems
 - 📫 How to reach me ...
 
 <!---
